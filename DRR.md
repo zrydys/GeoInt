@@ -1,9 +1,9 @@
 
 Concise presentation on **Disaster Risk Reduction (DRR)**, with open sources from UNDRR and OCHA reliefweb.int. 
 
-## Sendai & DDR under 4+ areas
+## Sendai and DRR: in Four🎯⭐🍀🌏+ cycles🟣 
 
-Our view:  the four areas of The Disaster Risk Reduction (DRR) Diagram shown with the four+ InfChg Agile actions[^1] : 
+In our view, we can align actions on the four areas of The Disaster Risk Reduction (DRR) Diagram according to four+ InfChg Modern Agile actions[^1] : 
 
 - 🎯Environmental  Sustainability & Climate  Change Adaptation  (CCA)
 - 🌏Disaster Risk  Management  (DRM) Initiatives 
