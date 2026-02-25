@@ -73,9 +73,8 @@ Here we outline terms, key steps, and references to the Sendai Framework.
 
 ## 7. Resources & Further Reading
 - [UNISDR Sendai Framework](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030)
-- [UNDRR Infographics](https://www.undrr.org/publication/infographics-disaster-risk-reduction)
-  - [Sendai Framework Visual](https://www.undrr.org/sites/default/files/2021-04/Sendai%20Framework%20for%20Disaster%20Risk%20Reduction%202015-2030%20-%20Infographic.jpg)
-  - [DRR Cycle Diagram](https://www.undrr.org/sites/default/files/2021-04/DRR%20Cycle%20Infographic.jpg)
+- [UNDRR Infographics](https://www.undrr.org/publication/)
+- 
 
 ---
 
