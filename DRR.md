@@ -1,5 +1,5 @@
 
-Concise presentation on **Disaster Risk Reduction (DRR)**, with open sources from UNDDR and presentation. We outline terms, key steps, and references to the Sendai Framework. 
+Concise presentation on **Disaster Risk Reduction (DRR)**, with open sources from UNDRR and OCHA reliefweb.int. 
 
 ## Sendai & DDR under 4+ areas
 
@@ -17,6 +17,7 @@ In social responsible cycles🌀 (see  https://zrydys.github.io/c/pm contributio
 
 ![](https://reliefweb.int/sites/default/files/styles/large/public/previews/9e/b8/9eb8f958-b007-378f-b42a-a701cb57d631.png.webp?1769890-1-0)
  
+Here we outline terms, key steps, and references to the Sendai Framework. 
 
 # Disaster Risk Reduction (DRR): Basics & Sendai Framework
 
@@ -79,7 +80,7 @@ In social responsible cycles🌀 (see  https://zrydys.github.io/c/pm contributio
 ---
 
 
-CC-BY by ZryDys https://zrydys.github.io/GeoInt/DDR.html+ OS reliefweb.int/report/world/disaster-risk-reduction-drr-diagram
+CC-BY by ZryDys https://zrydys.github.io/GeoInt/DRR.html+ OS reliefweb.int/report/world/disaster-risk-reduction-drr-diagram with DRR icons 🎯⭐🍀🌏 CC-BY InfChg.github.io 🟣🌀 
 
 
 ---
